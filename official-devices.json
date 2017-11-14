@@ -1,0 +1,12 @@
+{
+  "codename":"pme",
+  "name":"HTC 10",
+  "maintainers":["tabp0le", "Eliminater74"],
+  "devicetree":"https://github.com/FusionDevices/android_device_htc_pme",
+  "kernel":"https://github.com/FusionDevices/android_kernel_htc_msm8996",
+  "download":"https://download.purefusionos.com/roms/pme/",
+  "versions":[
+           { "number":"7.1.2", "link":"https://forum.xda-developers.com/htc-10/development/rom-official-pure-fusion-os-oreo-t3694203" },
+           { "number":"8.0.0", "link":"https://forum.xda-developers.com/htc-10/development/rom-pure-nexus-mod-substratum-volte-t3611743" }
+  ]
+}
