@@ -1,6 +1,7 @@
 {
+  "brand":"HTC",
   "codename":"pme",
-  "name":"HTC 10",
+  "displayname":"HTC 10",
   "maintainers":["tabp0le", "Eliminater74"],
   "devicetree":"https://github.com/FusionDevices/android_device_htc_pme",
   "kernel":"https://github.com/FusionDevices/android_kernel_htc_msm8996",
